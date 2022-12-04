@@ -1,0 +1,5 @@
+window is the parent
+window is the open tab of a browser
+
+document is the child
+document is the file loaded in a browser tab
